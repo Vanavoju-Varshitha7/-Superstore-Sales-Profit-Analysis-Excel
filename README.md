@@ -71,7 +71,7 @@ The project includes:
 
 ## 📊 Dashboard Preview
 
-Add your dashboard screenshot here:
+<img width="1038" height="624" alt="dashboard" src="https://github.com/user-attachments/assets/147a590b-953d-4bb1-abbb-b0992f7d92e5" />
 
 
 
